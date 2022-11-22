@@ -12,6 +12,7 @@ I'm a self-taught software engineer with a passion for solving interesting and c
 * 🚀  I'm currently working on [a Twitter bot](http://twitter.com/dune_quote_bot)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
+* ⚡ Fun Fact: I've solved nearly [400 LeetCode questions!](https://leetcode.com/dbring/)
 
 ### Skills
 
