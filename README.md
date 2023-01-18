@@ -4,7 +4,7 @@ Hi 👋 My name is Dean Bring
 Software Engineer
 -----------------
 
-I'm a self-taught software engineer with a passion for solving interesting and challenging problems, building apps, and learning about new web technologies.
+I'm a software engineer with a passion for solving interesting and challenging problems, building apps, and learning about new web technologies.
 
 * 🌍  I'm based in Vancouver, BC
 * 🖥️  See my portfolio at [My Portfolio](http://deanbring.com)
