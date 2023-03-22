@@ -10,7 +10,7 @@ I'm a software engineer with a passion for solving interesting and challenging p
 * 🖥️  See my portfolio at [My Portfolio](http://deanbring.com)
 * ✉️  You can contact me at [dbring@gmail.com](mailto:dbring@gmail.com)
 * 🚀  I'm currently working on [a Twitter bot](http://twitter.com/dune_quote_bot)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning Node.js & Express.js!
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡ Fun Fact: I've solved nearly [400 LeetCode questions!](https://leetcode.com/dbring/)
 
